@@ -9,10 +9,10 @@ var app = angular.module("appRootTrivia", [
 	$routeProvider
 		.when('/', {
 			templateUrl: 'templates/bienvenido.html',
-			controller:'generalCtrl'
+			controller:'preguntasController'
 		})
 		.when('/formPreguntas', {
-			templateUrl: 'templates/preguntas.html',
+			templateUrl: 'templates/BPreguntas/formBPregunta.html',
 			controller:'preguntasController'
 		})
 		.otherwise({

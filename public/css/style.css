@@ -1,4 +1,4 @@
-body {
+/*body {
 font-family: Roboto, Arial, sans-serif;
 background: #ECEFF1;
 color: rgba(0,0,0,0.87);
@@ -50,11 +50,13 @@ border-radius: 3px;
 font-size: 14px;
 box-shadow: 0 2px 5px 0 rgba(0,0,0,.26);
 }
-img{
-  /*-webkit-animation-duration: 3s;
-  -webkit-animation-delay: 2s;*/
+*/
+/*img{
+  -webkit-animation-duration: 3s;
+  -webkit-animation-delay: 2s;
   -webkit-animation-iteration-count: infinite;
-}
+}*/
+/*
 table{
 	font-size: 2em;
 }
@@ -74,3 +76,4 @@ label
 .pageslider{
 	height: 600px;
 }
+*/
